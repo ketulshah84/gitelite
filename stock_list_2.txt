@@ -2,4 +2,4 @@ symbol;quantity;level_calc_parameter;target1;target2;target3
 BAJFINANCE;1;1875;.0016;.001;.001
 SBIN;1;1870;.0156;.005;.005
 
-
+ola 2
